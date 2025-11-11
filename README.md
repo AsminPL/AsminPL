@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Solo projects under Asmin Developer Studios – building web apps and sharing my tech passion on my YouTube channel <br>👯 I’m looking to collaborate on<br>Small to medium web development projects, Python tools, or anything experimental where I can push code limits.<br>🌱 I’m currently learning<br>Python, HTML5, PHP… and who knows, maybe more languages and frameworks soon.<br>💬 Ask me about<br>Web dev, scripting.<br>⚡ Fun fact<br>I use Arch btw 😎
+🔭 I’m currently working on<br>Solo projects under Asmin Developer Studios – building web apps and sharing my tech passion on my YouTube channel <br>👯 I’m looking to collaborate on<br>Small to medium web development projects, Python tools, or anything experimental where I can push code limits.<br>🌱 I’m currently learning<br>Python, HTML5, PHP… and who knows, maybe more languages and frameworks soon.<br>💬 Ask me about<br>Web dev, scripting.<br>⚡
 
 
 ## 🌐 Socials:
